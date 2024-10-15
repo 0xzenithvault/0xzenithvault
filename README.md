@@ -12,26 +12,13 @@ I’m currently learning:
 
 ---
 
-## 🌍 What Drives Me
-Blockchain is more than just a buzzword – it's a vision of a transparent, secure, and decentralized future. I might be at the beginning of my learning journey, but the excitement keeps me going as I dive deeper into coding and blockchain.
-
-While I’m still improving my skills, I believe that coding is a process of constant growth. Every bug I fix (or break) is a step forward in becoming a better developer!
-
----
-
-## 🛠️ Tech Stack
-- **Languages**: JavaScript, HTML5, CSS3 (still learning the ropes)
-- **Frameworks**: React, Bootstrap
-- **Tools**: Git, GitHub, VSCode, MetaMask (definitely getting better!)
-- **Blockchain Platforms**: Ethereum, Arbitrum, Scroll (exploring these with curiosity)
-
----
-
 ## 📱 Let's Connect
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_username)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_username)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prawiradiawan)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prawiradiawan) 
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prawiradiawan)  
 
 ---
 
